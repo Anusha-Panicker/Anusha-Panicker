@@ -20,7 +20,7 @@
 
 
 
-## 💫 About Me
+# 💫 About Me
 
 <div align="left">
 
@@ -45,7 +45,7 @@
 
 </div>
 
-## 🎓 Education & Certifications
+# 🎓 Education & Certifications
 
 ### **Education**
 
@@ -60,7 +60,7 @@
 
 
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
@@ -80,7 +80,7 @@
 </p>
 
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 * 🧠 Deep Learning
 * 💬 Natural Language Processing
@@ -92,7 +92,7 @@
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 * Become a strong AI/ML Engineer
 * Build real-world AI applications
@@ -104,7 +104,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 <div align="center">
 
@@ -116,7 +116,7 @@
 
 
 
-## 💬 Quote
+# 💬 Quote
 
 > **"Learn • Build • Improve • Repeat 🚀"**
 
