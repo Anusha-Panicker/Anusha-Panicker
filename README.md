@@ -103,7 +103,7 @@
 <!-- 1️⃣ GitHub Stats -->
 
 <img
-src="https://github-readme-stats-snowy-six-o4c8c15vwu.vercel.app/api?username=Anusha-Panicker&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+src="https://github-readme-stats-snowy-six-o4c8c15vwu.vercel.app/api?username=Anusha-Panicker&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"
 width="620"
 />
 
