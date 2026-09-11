@@ -2,7 +2,6 @@
 
 <h3 align="center">
   B.Tech AI & ML Student | Aspiring AI Engineer | Python & Machine Learning Learner
-
 </h3>
 
 <p align="center">
@@ -24,24 +23,17 @@
 
 <div align="left">
 
-
 🎓 &nbsp;B.Tech student specializing in **Artificial Intelligence & Machine Learning**
-
 
 🐍 &nbsp;Currently building my foundation in **Python, Machine Learning, and Data Structures & Algorithms**
 
-
 🤖 &nbsp;Interested in **Artificial Intelligence, Deep Learning, Computer Vision, and NLP**
-
 
 🌱 &nbsp;Learning by working on practical projects and experimenting with different AI/ML models
 
-
 💡 &nbsp;I enjoy understanding concepts by implementing them and improving through hands-on practice
 
-
 🚀 &nbsp;My goal is to become a skilled **AI/ML Engineer** and build meaningful real-world applications
-
 
 </div>
 
@@ -104,17 +96,36 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Anusha-Panicker&theme=tokyonight&hide_border=true" />
+<!-- 1️⃣ GitHub Stats -->
+
+<img
+src="https://github-readme-stats-snowy-six-o4c8c15vwu.vercel.app/api?username=Anusha-Panicker&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+width="620"
+/>
+
+<br><br>
+
+<!-- 2️⃣ GitHub Streak -->
+
+<img
+src="https://streak-stats.demolab.com/?user=Anusha-Panicker&theme=dark&hide_border=false&background=151515&border=444444&stroke=444444&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9900&sideLabels=FFFFFF&dates=AAAAAA"
+width="680"
+/>
+
+<br><br>
+
+<!-- 3️⃣ Most Used Languages -->
+
+<img
+src="https://github-readme-stats-snowy-six-o4c8c15vwu.vercel.app/api/top-langs/?username=Anusha-Panicker&layout=compact&theme=dark&hide_border=false&langs_count=6"
+width="420"
+/>
 
 </div>
-
-
-
-
 
 # 💬 Quote
 
@@ -122,4 +133,3 @@
 
 
 ### ⭐ Thanks for visiting my profile!
-
