@@ -46,7 +46,7 @@
 
 ### **Certifications**
 
-- ✅ [Ethical Hacking Certification](certificates/Ethical Hacking Certification.pdf) — *Cisco*
+- ✅ [Ethical Hacking Certification](certificates/Ethical_Hacking_Certification.pdf) — *Cisco*
 - ✅ Data Analyst in Python — *DataCamp*
 - ✅ GenAI Powered Data Analytics Job Simulation — *Tata / Forage*
 - ✅ Project Management 101
