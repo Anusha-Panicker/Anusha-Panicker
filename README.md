@@ -46,12 +46,11 @@
 
 ### **Certifications**
 
-- ✅ [Ethical Hacking Certification](certificates/Ethical_Hacking_Certification.pdf) — *Cisco*
-- ✅ Data Analyst in Python — *DataCamp*
-- ✅ GenAI Powered Data Analytics Job Simulation — *Tata / Forage*
-- ✅ Project Management 101
-- ✅ Machine Learning Engineer — *DataCamp*
-
+- ✅ [Ethical Hacking Certification](certificates/Ethical%20Hacking%20Certification.pdf) — *Cisco*
+- ✅ [Data Analyst in Python](certificates/Data%20Analyst%20in%20Python.pdf) — *DataCamp*
+- ✅ [GenAI Powered Data Analytics Job Simulation](certificates/GenAI%20Powered%20Data%20Analytics%20Job%20Simulation.pdf) — *Tata / Forage*
+- ✅ [Project Management 101](certificates/Project%20Management%20101.pdf)
+- ✅ [Machine Learning Engineer](certificates/Machine%20Learning%20Engineer.pdf) — *DataCamp*
 
 # 💻 Tech Stack:
 
